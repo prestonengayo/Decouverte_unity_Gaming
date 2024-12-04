@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7629181dd8b707346ae404b0206a0357, type: 3}
+  m_Name: Barbarian
+  m_EditorClassIdentifier: 
+  _life: 150
+  _maxLife: 150
+  _stamina: 6
+  _maxStamina: 6
+  _regenLife: 2
+  _regenStamina: 1
+  _timeBeforeRegenLife: 5
+  _timeBeforeRegenStamina: 10
