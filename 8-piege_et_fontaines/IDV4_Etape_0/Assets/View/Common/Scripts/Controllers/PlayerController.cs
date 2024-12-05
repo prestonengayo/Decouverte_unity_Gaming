@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float _speed = 5.0f;
     [SerializeField] private int _health = 100;
 
+
     // Méthode appelée chaque frame
     private void Update()
     {
@@ -33,6 +34,7 @@ public class PlayerController : MonoBehaviour
     // Méthode appelée lorsqu'un objet entre en collision avec ce GameObject (2D)
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log("Player collided with: " + collision.gameObject.name); // Log pour vérifier les collisions
         TriggerCollectible(collision);
         TriggerDamageable(collision);
         TriggerIHealable(collision);
@@ -48,6 +50,7 @@ public class PlayerController : MonoBehaviour
     // Collecte le collectible si l’objet passé en paramètre implémente l’interface ICollectible
     private void TriggerCollectible(Collider2D pCollider2D)
     {
+        Debug.Log("Trigger on something");
         ICollectible collectible = pCollider2D.GetComponent<ICollectible>();
         if (collectible != null)
         {

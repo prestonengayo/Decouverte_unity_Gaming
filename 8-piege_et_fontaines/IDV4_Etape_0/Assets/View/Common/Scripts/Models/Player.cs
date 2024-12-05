@@ -170,4 +170,18 @@ public class Player : MonoBehaviour
             _experiences -= pDamage;
         }
     }
+
+    // Méthode appelée lorsqu'un objet entre en collision avec ce GameObject (2D)
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("Player collided with: " + collision.gameObject.name); // Log pour vérifier les collisions
+
+        // Vérifier si l'objet en collision est un collectible
+        ICollectible collectible = collision.GetComponent<ICollectible>();
+        if (collectible != null)
+        {
+            Debug.Log("Collecting item: " + collectible.ToString());
+            collectible.Collect(this); // Passer l'instance du joueur pour la collecte
+        }
+    }
 }

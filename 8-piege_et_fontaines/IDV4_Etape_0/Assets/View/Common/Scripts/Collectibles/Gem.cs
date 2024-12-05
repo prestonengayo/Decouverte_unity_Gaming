@@ -1,33 +1,14 @@
 using UnityEngine;
 
-public class Gem : MonoBehaviour
+public class Gem : MonoBehaviour, ICollectible
 {
-    // Attribut sérialisé pour la quantité
-    [SerializeField] private int _quantity;
+    [SerializeField] private int _quantity = 5;
 
-    // Getter et setter pour la quantité
-    public int Quantity
+    // Implémentation de la méthode Collect
+    public void Collect(Player pPlayer)
     {
-        get => _quantity;
-        set => _quantity = value;
-    }
-
-    // Méthode Unity OnTriggerEnter2D
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            Collect(collision.gameObject.GetComponent<Player>());
-        }
-    }
-
-    // Méthode pour collecter la gemme
-    public void Collect(Player player)
-    {
-        if (player != null)
-        {
-            player.AddGem(_quantity);
-            Destroy(gameObject); // Détruit l'objet une fois collecté
-        }
+        Debug.Log("Gem collected, adding " + _quantity + " gems to player");
+        pPlayer.AddGem(_quantity);
+        Destroy(gameObject); // Détruire l'objet une fois collecté
     }
 }

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|d:\\etna\\idv4gaming\\8-piege_et_fontaines\\idv4_etape_0\\assets\\view\\common\\scripts\\enums\\ehealable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\enums\\ehealable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|d:\\etna\\idv4gaming\\8-piege_et_fontaines\\idv4_etape_0\\assets\\view\\common\\scripts\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|d:\\etna\\idv4gaming\\8-piege_et_fontaines\\idv4_etape_0\\assets\\view\\common\\scripts\\controllers\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\controllers\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|d:\\etna\\idv4gaming\\8-piege_et_fontaines\\idv4_etape_0\\assets\\view\\common\\scripts\\collectibles\\symbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\collectibles\\symbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\assets\\view\\common\\scripts\\interfaces\\ihealable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\interfaces\\ihealable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|d:\\etna\\idv4gaming\\8-piege_et_fontaines\\idv4_etape_0\\assets\\view\\common\\scripts\\collectibles\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\collectibles\\orb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|d:\\etna\\idv4gaming\\8-piege_et_fontaines\\idv4_etape_0\\assets\\view\\common\\scripts\\collectibles\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\collectibles\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|d:\\etna\\idv4gaming\\8-piege_et_fontaines\\idv4_etape_0\\assets\\view\\common\\scripts\\controllers\\icollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\controllers\\icollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|d:\\etna\\idv4gaming\\8-piege_et_fontaines\\idv4_etape_0\\assets\\view\\common\\scripts\\controllers\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A551821A-F959-87F4-AF34-DEF1A1229A6D}|Assembly-CSharp.csproj|solutionrelative:assets\\view\\common\\scripts\\controllers\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "eHealable.cs",
-              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Enums\\eHealable.cs",
-              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Enums\\eHealable.cs",
-              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Enums\\eHealable.cs",
-              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Enums\\eHealable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T10:52:43.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Trap.cs",
-              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Controllers\\Trap.cs",
-              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Controllers\\Trap.cs",
-              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Controllers\\Trap.cs",
-              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Controllers\\Trap.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAEAAAAAAAAAA==",
+              "Title": "Symbol.cs",
+              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Collectibles\\Symbol.cs",
+              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Collectibles\\Symbol.cs",
+              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Collectibles\\Symbol.cs",
+              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Collectibles\\Symbol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T10:39:55.434Z",
+              "WhenOpened": "2024-12-05T18:58:30.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IHealable.cs",
-              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Interfaces\\IHealable.cs",
-              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Interfaces\\IHealable.cs",
-              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Interfaces\\IHealable.cs",
-              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Interfaces\\IHealable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Title": "Orb.cs",
+              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Collectibles\\Orb.cs",
+              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Collectibles\\Orb.cs",
+              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Collectibles\\Orb.cs",
+              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Collectibles\\Orb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:29:19.648Z"
+              "WhenOpened": "2024-12-05T18:58:21.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Controllers\\Collectible.cs",
+              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Controllers\\Collectible.cs",
+              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Controllers\\Collectible.cs",
+              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Controllers\\Collectible.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:05:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Controllers\\PlayerController.cs",
+              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:14:42.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gem.cs",
+              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Collectibles\\Gem.cs",
+              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Collectibles\\Gem.cs",
+              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Collectibles\\Gem.cs",
+              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Collectibles\\Gem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:09:19.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICollectible.cs",
+              "DocumentMoniker": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Controllers\\ICollectible.cs",
+              "RelativeDocumentMoniker": "Assets\\View\\Common\\Scripts\\Controllers\\ICollectible.cs",
+              "ToolTip": "D:\\ETNA\\IDV4GAMING\\8-piege_et_fontaines\\IDV4_Etape_0\\Assets\\View\\Common\\Scripts\\Controllers\\ICollectible.cs",
+              "RelativeToolTip": "Assets\\View\\Common\\Scripts\\Controllers\\ICollectible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:07:43.398Z",
+              "EditorCaption": ""
             }
           ]
         }
