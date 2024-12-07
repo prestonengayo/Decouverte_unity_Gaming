@@ -1,5 +1,8 @@
 # Groupe de ngayon_p 1045897
 
+## Démo du projet
+
+[Voir la vidéo](demo/Demo_Gaming.mp4)
 
 
 ## Getting started
